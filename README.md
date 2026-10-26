@@ -71,6 +71,15 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofmontrezor&layout=compact&theme=dark" width="48%" />
 </p>
 
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub e a cobrinha comendo os commits" src="https://githubusercontent.com">
+</picture>
+
+
 
 ---
 

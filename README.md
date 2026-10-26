@@ -73,10 +73,11 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
 
 ## 🐍 Contribuições
 
-<p align="center">
-  <img alt="GitHub e a cobrinha comendo os commits" src="https://github.com">
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedrofmontrezor/joaopedrofmontrezor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedrofmontrezor/joaopedrofmontrezor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedrofmontrezor/joaopedrofmontrezor/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 

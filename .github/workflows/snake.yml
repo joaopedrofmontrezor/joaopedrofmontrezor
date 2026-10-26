@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate the snake files
-        uses: Platane/snk/svg-grid@v3
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github-user-name: ${{ github.repository_owner }}

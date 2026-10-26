@@ -79,9 +79,6 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
   <img alt="GitHub e a cobrinha comendo os commits" src="https://githubusercontent.com">
 </picture>
 
-
-
-
 ---
 
 ## 📂 Projetos em destaque

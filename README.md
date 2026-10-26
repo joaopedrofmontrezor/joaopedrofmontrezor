@@ -74,8 +74,9 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
 ## 🐍 Contribuições
 
 <p align="center">
-  <img alt="GitHub e a cobrinha comendo os commits" src="https://githubusercontent.com">
+  <img alt="GitHub e a cobrinha comendo os commits" src="https://github.com">
 </p>
+
 
 ---
 

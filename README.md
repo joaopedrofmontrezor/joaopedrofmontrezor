@@ -70,7 +70,9 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofmontrezor&layout=compact&theme=dark" width="48%" /
 </p>
+
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrofmontrezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🐍 Contribuições
 
 <picture>

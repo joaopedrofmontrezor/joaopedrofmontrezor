@@ -69,6 +69,7 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofmontrezor&layout=compact&theme=dark" width="48%" />
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrofmontrezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## 🐍 Contribuições
@@ -78,7 +79,6 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedrofmontrezor/joaopedrofmontrezor/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedrofmontrezor/joaopedrofmontrezor/output/github-contribution-grid-snake.svg">
 
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrofmontrezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
 
 ---

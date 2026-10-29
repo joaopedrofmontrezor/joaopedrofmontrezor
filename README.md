@@ -68,7 +68,7 @@ Meus projetos nascem de situações do dia a dia, como a gestão de uma barbeari
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrofmontrezor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedrofmontrezor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
 </p>
 
 ## 🐍 Contribuições
